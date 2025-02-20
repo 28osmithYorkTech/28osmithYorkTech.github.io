@@ -30,9 +30,33 @@ a {
     color: white;
 }
 
+#bottom {
+    background-color: black;
+    color: white;
+    border: 5px solid darkblue;
+    padding: 5px 5px 500px 5px;
+}
+
+
 footer {
     padding-top: 200px;
 }
+
+
+a.lol {
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+}
+
+.G1p1 {
+    border: black solid 2px;
+    font-size: 25px; 
+}
+
+
+
+
 
 
 
