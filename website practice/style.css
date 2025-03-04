@@ -55,9 +55,13 @@ a.lol {
 }
 
 
-table {
-    font-size: 25px;
+table, td {
+    border: 1px solid black;
+    font-size: 15px; 
 }
+
+
+
 
 
 
