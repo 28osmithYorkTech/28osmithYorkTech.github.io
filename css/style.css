@@ -1,0 +1,88 @@
+h1.head {
+    background-color: cornflowerblue; ;
+    color: white;
+    padding: 5px;
+    font-size: 50px;
+    border: 5px solid blue;
+    text-align: center;
+    
+    }
+        
+    h2.subhead {
+    background-color:black ;
+    color: white;
+    padding: 5px;
+    border: 5px solid red;
+    text-align: center;
+    
+    }
+    
+    p {
+    font-size: 25px;
+    }
+    
+    a {
+        border: 5px solid blue;
+        font-size: 30px;
+        margin: auto;
+        padding: 5px;
+        background-color: cornflowerblue;
+        color: white;
+    }
+    
+    #bottom {
+        background-color: black;
+        color: white;
+        border: 5px solid darkblue;
+        padding: 5px 5px 500px 5px;
+    }
+    
+    
+    footer {
+        padding-top: 200px;
+    }
+    
+    
+    a.lol {
+        color: white;
+        background-color: black;
+        border: 3px solid white;
+    }
+    
+    .G1p1 {
+        border: black solid 2px;
+        font-size: 25px; 
+    }
+    
+    html{
+        background-color: cyan;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
